@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseencrypt",
+        "uuid": 34566960,
+        "checksum": "tps1u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
